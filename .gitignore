@@ -9,8 +9,8 @@ ENV/
 # *.xlsx
 # *.xls
 
-# Archivos CSV grandes (opcional)
-# *.csv
+# Archivos CSV grandes (excluidos por tamaño)
+*.csv
 
 # Archivos temporales de Python
 __pycache__/
