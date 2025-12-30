@@ -1,0 +1,43 @@
+# Entornos virtuales de Python
+Entorno_migracion/
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos Excel grandes (opcional - descomenta si no quieres subirlos)
+# *.xlsx
+# *.xls
+
+# Archivos CSV grandes (opcional)
+# *.csv
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos de configuración local
+.env
+config.local.*
+
